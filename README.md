@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Girendra Sinsinwar**<br>
-🚀 Full Stack Developer (MERN, **Golang**, & Next.js) | 💻 Backend & Blockchain Enthusiast | 📱 React Native App Developer | 🔮 AI Explorer<br><br>
+🚀 Full Stack Developer (MERN, **Golang**, & Next.js) | 💻 Backend & Blockchain Enthusiast | 📱 React Native App Developer | 🔮 AI Explorer<br>
 
 I'm a Full Stack Developer with expertise in **Golang-based backend development**, MERN Stack (MongoDB, Express.js, React, Node.js), and Next.js. I’m passionate about building **scalable backend systems, web and mobile applications**, and blockchain solutions. My interests include **Golang microservices, Web3, AI-driven applications, and Smart Contracts**, along with React Native for mobile app development. I love solving challenging problems and constantly exploring new technologies.<br><br>
 
